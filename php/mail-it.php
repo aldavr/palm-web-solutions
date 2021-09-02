@@ -1,7 +1,7 @@
 <?php
 mb_internal_encoding("UTF-8");
 
-$to = 'support@palmwebsolutions.com';
+$to = 'palmwebsolutions.contact@gmail.com';
 $subject = 'Message from PWS';
 
 $name = "";
